@@ -39,7 +39,7 @@
 <p >
 <img src="https://github.com/RAV3RY/RAV3RY/blob/main/cooltext513340585922788.png" alt="interests" width="300" height="200">
 </p>
-<p align="center">these aren't all of them, just the ones i'm really focused on personally</p>
+<p>these aren't all of them, just the ones i'm really focused on personally</p>
 <p> - roblox </p>
 <p> - slendytubbies </p>
 <p> - among us show </p>
