@@ -13,11 +13,11 @@
 <p >
 <img src="https://github.com/RAV3RY/RAV3RY/blob/main/cooltext513340571916443.png" alt="ALL YOUR BASE ARE BELONG TO US" width="400" height="300">
 </p>
-<p align="center"> i'm very awkward around people i don't know. so if i seem off at all, it's not you. i'm just trying to be normal. </p>
-<p align="center"> i use slurs i can reclaim. (f slur, t slur) if you don't like that, respectfully it would be better for you to just not talk to me. </p>
-<p align="center"> i block people freely, it's most likely nothing personal, i just want to cater my online experience to be as nice to me as possible. </p>
-<p align="center"> don't flirt with me or sexualize me. if you're reading this i most likely don't know you. </p>
-<p align="center"> i usually go by the "live and let live" mentality, as long as the person isn't hurting themselves or others, i don't care what they like or what they do (there are exceptions though) </p>
-<p align="center"> i will in fact show symptoms of my mental disorders. if you don't like that, don't interact with me. </p>
-<p align="center"> if you are genuinely addicted to weed to the point it affects your everyday life or it's all of your personality, please do not talk to me. nothing against you personally, i just can't handle people like that. </p>
+<p> - i'm very awkward around people i don't know. so if i seem off at all, it's not you. i'm just trying to be normal. </p>
+<p> - i use slurs i can reclaim. (f slur, t slur) if you don't like that, respectfully it would be better for you to just not talk to me. </p>
+<p> - i block people freely, it's most likely nothing personal, i just want to cater my online experience to be as nice to me as possible. </p>
+<p> - don't flirt with me or sexualize me. if you're reading this i most likely don't know you. </p>
+<p> - i usually go by the "live and let live" mentality, as long as the person isn't hurting themselves or others, i don't care what they like or what they do (there are exceptions though) </p>
+<p> - i will in fact show symptoms of my mental disorders. if you don't like that, don't interact with me. </p>
+<p> - if you are genuinely addicted to weed to the point it affects your everyday life or it's all of your personality, please do not talk to me. nothing against you personally, i just can't handle people like that. </p>
 
