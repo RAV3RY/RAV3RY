@@ -1,4 +1,8 @@
 <p align="center">
+<img src="https://github.com/RAV3RY/RAV3RY/blob/main/tumblr_da782b28b71d698823f1d4152a0d580d_a4209b98_1280.png" alt="ALL YOUR BASE ARE BELONG TO US">
+</p>
+
+<p align="center">
 <img src="https://github.com/RAV3RY/RAV3RY/blob/main/cooltext513339851623580.png" alt="ALL YOUR BASE ARE BELONG TO US">
 </p>
 
