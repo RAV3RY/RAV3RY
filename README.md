@@ -25,7 +25,7 @@
 <p >
 <img src="https://github.com/RAV3RY/RAV3RY/blob/main/cooltext513340580418564.png" alt="dni" width="400" height="300">
 </p>
-<p> - [basic dni criteria](https://dni-criteria.carrd.co) </p>
+<p> - basic dni criteria (https://dni-criteria.carrd.co) </p>
 <p> - minors </p>
 <p> - transmed </p>
 <p> - anti mspec lesbian/gay/etc. </p>
@@ -37,7 +37,7 @@
 </p>
 
 <p >
-<img src="https://github.com/RAV3RY/RAV3RY/blob/main/cooltext513340585922788.png" alt="interests" width="400" height="300">
+<img src="https://github.com/RAV3RY/RAV3RY/blob/main/cooltext513340585922788.png" alt="interests" width="300" height="200">
 </p>
 <p align="center">these aren't all of them, just the ones i'm really focused on personally</p>
 <p> - roblox </p>
@@ -45,7 +45,7 @@
 <p> - among us show </p>
 <p> - ultrakill </p>
 
-<p align="center">all of my interests can be found on my [carrd!](https://rav3ry.carrd.co)</p>
+<p align="center">all of my interests can be found on my carrd! (https://rav3ry.carrd.co)</p>
 
 <p align="center">
 <img src="https://github.com/RAV3RY/RAV3RY/blob/main/bae1b898d0c783b256d9cf68e271aff21f4b30cd.gif" alt="divider">
@@ -55,4 +55,4 @@
 <img src="https://github.com/RAV3RY/RAV3RY/blob/main/tumblr_feb8119ca0ec3c18a554890c48ae7145_1ac05e20_1280.png" alt="art">
 </p>
 
-<p align="center">art by [alien-shmalien on tumblr](https://www.tumblr.com/alien-shmalien)</p>
+<p align="center">art by alien-shmalien on tumblr</p>
