@@ -1,8 +1,4 @@
 <p align="center">
-<img src="https://github.com/RAV3RY/RAV3RY/blob/main/tumblr_da782b28b71d698823f1d4152a0d580d_a4209b98_1280.png" alt="ALL YOUR BASE ARE BELONG TO US">
-</p>
-
-<p align="center">
 <img src="https://github.com/RAV3RY/RAV3RY/blob/main/cooltext513339851623580.png" alt="ALL YOUR BASE ARE BELONG TO US">
 </p>
 
@@ -59,7 +55,3 @@
 <img src="https://github.com/RAV3RY/RAV3RY/blob/main/tumblr_feb8119ca0ec3c18a554890c48ae7145_1ac05e20_1280.png" alt="art">
 </p>
 <p align="center">art by alien-shmalien on tumblr</p>
-
-<p align="center">
-<img src="https://github.com/RAV3RY/RAV3RY/blob/main/tumblr_bd830dd028abafcd9ab0976728e475bd_72aa107e_1280.png" alt="ALL YOUR BASE ARE BELONG TO US">
-</p>
